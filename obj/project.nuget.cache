@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "THZ/5qJGry9Por6RpjZIZ/a/aFDnMTGNHPn0pVdpTQpv8VtRLpyrTBxRzHGbRoqJAkcZUXUVJ48ENaLyhGCdlw==",
+  "success": true,
+  "projectFilePath": "/home/r0ck450/Desktop/ParityChecker/ParityChecker.csproj",
+  "expectedPackageFiles": [
+    "/home/r0ck450/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
