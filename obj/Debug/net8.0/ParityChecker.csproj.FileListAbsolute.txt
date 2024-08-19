@@ -1,0 +1,14 @@
+/home/r0ck450/Desktop/ParityChecker/obj/Debug/net8.0/ParityChecker.GeneratedMSBuildEditorConfig.editorconfig
+/home/r0ck450/Desktop/ParityChecker/obj/Debug/net8.0/ParityChecker.AssemblyInfoInputs.cache
+/home/r0ck450/Desktop/ParityChecker/obj/Debug/net8.0/ParityChecker.AssemblyInfo.cs
+/home/r0ck450/Desktop/ParityChecker/obj/Debug/net8.0/ParityChecker.csproj.CoreCompileInputs.cache
+/home/r0ck450/Desktop/ParityChecker/bin/Debug/net8.0/ParityChecker
+/home/r0ck450/Desktop/ParityChecker/bin/Debug/net8.0/ParityChecker.deps.json
+/home/r0ck450/Desktop/ParityChecker/bin/Debug/net8.0/ParityChecker.runtimeconfig.json
+/home/r0ck450/Desktop/ParityChecker/bin/Debug/net8.0/ParityChecker.dll
+/home/r0ck450/Desktop/ParityChecker/bin/Debug/net8.0/ParityChecker.pdb
+/home/r0ck450/Desktop/ParityChecker/obj/Debug/net8.0/ParityChecker.dll
+/home/r0ck450/Desktop/ParityChecker/obj/Debug/net8.0/refint/ParityChecker.dll
+/home/r0ck450/Desktop/ParityChecker/obj/Debug/net8.0/ParityChecker.pdb
+/home/r0ck450/Desktop/ParityChecker/obj/Debug/net8.0/ParityChecker.genruntimeconfig.cache
+/home/r0ck450/Desktop/ParityChecker/obj/Debug/net8.0/ref/ParityChecker.dll
